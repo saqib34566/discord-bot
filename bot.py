@@ -23,7 +23,7 @@ async def riddle(ctx):
             "The more of this there is, the less you see. What is it?"]
     await ctx.send(f"{random.choice(random)}")
 
-client.run('OTEzNDk1NzgzODI1ODk5NTUx.YZ_VPg.zy8drq4O_UQeGKY9bxBSSJCtvd4')
+client.run('TOKEN')
 
 
 
